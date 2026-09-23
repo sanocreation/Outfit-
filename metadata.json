@@ -1,0 +1,7 @@
+{
+  "name": "TRYON AI",
+  "description": "AI Virtual Try-On - Realistic outfit and clothing preview application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
